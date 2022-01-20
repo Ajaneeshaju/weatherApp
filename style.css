@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Fruktur&family=Irish+Grover&family=Lobster&family=Mochiy+Pop+P+One&family=Oswald:wght@700&family=Pacifico&family=Permanent+Marker&family=Rubik+Beastly&display=swap');
+#row1{
+    height: 100px;
+    width: 100%;
+    /* background-color: aqua; */
+    /* border:  solid black; */
+    /* background-image: url(./image/OIP\ \(1\).jpg); */
+
+    /* margin-top: 10px; */
+
+}
+#row2{
+    height: 500px;
+    width: 100%;
+    /* background-color: aqua; */
+    /* border: solid black; */
+    
+    margin-top: -50px;
+
+}
+
+#weather{
+    margin-left: 250px;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
